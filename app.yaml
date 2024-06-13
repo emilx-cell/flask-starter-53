@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: emilx-cell-flask-starter-53
+owner: emilx-cell
+package: .
